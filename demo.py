@@ -1,0 +1,1 @@
+# Escribe una función para leer presión usando un bloque except vacío
